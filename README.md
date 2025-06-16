@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Delightflow</h1>
 <h3 align="center">A junior AI service developer from Korea Repulic</h3>
 
-- 🔭 I’m currently working on **cocoary**
+- 🔭 I’m currently working on **Nextip**
 
 - 👨‍💻 All of my projects are available at [this github](this github)
 
